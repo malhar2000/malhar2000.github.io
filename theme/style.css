@@ -1,0 +1,12 @@
+html, body {
+    padding: 10px;
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    background-color: ghostwhite;
+    color: #333;
+  }
+
+  a{
+    color: rgb(161, 63, 63);
+  }
